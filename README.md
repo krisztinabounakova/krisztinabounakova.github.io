@@ -12,8 +12,8 @@ height="572">
 <tr align="center">
 <td rowspan="1" colspan="1" valign="top"><img
 moz-do-not-send="true"
-src="file:///C:/Users/Dell/Documents/D%C3%A1vid%20adatai/D%C3%A1vid%20munk%C3%A1i/Kriszti/weboldal/weboldal%20k%C3%A9pek/korulvagottKriszti.png"
-alt="" width="527" height="252"><br>
+src="weboldal%20k%C3%A9pek/korulvagottKriszti.png" alt=""
+width="527" height="252"><br>
 <br>
 </td>
 </tr>
