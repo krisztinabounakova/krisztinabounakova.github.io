@@ -29,14 +29,14 @@ width="527" height="252"><br>
 <tr align="center">
 <td rowspan="1" colspan="1" valign="top">
 <h1><a moz-do-not-send="true"
-href="file:///C:/Users/Dell/Documents/D%C3%A1vid%20adatai/D%C3%A1vid%20munk%C3%A1i/Kriszti/weboldal/K%C3%A9pek%20-%20Krisztina%20Bounakova.html"><font
+href="https://krisztinabounakova.github.io/kepek/"><font
 size="+3">Képek</font></a></h1>
 </td>
 </tr>
 <tr align="center">
 <td rowspan="1" colspan="1" valign="middle">
 <h1><a moz-do-not-send="true"
-href="file:///C:/Users/Dell/Documents/D%C3%A1vid%20adatai/D%C3%A1vid%20munk%C3%A1i/Kriszti/weboldal/R%C3%B3lam%20-%20Krisztina%20Bounakova.html"><font
+href="https://krisztinabounakova.github.io/rolam/"><font
 size="+3">Rólam</font></a><br>
 </h1>
 </td>
